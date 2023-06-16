@@ -4,3 +4,4 @@ Console.log("PRE-RELEASE"); //2.ND REQUEST
 function main(){
   return null;
 }
+Console.log(main());
